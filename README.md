@@ -1,4 +1,4 @@
-# QdQ - Queue Digitization Queue
+# QdQ
 
 QdQ is a mobile-first virtual queue management application that helps users avoid standing in physical queues.
 
